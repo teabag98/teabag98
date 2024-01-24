@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric Kingoo alias @teabag98
 - 👀 I’m interested in Mobile applications
-- 🌱 I’m currently learning  spring boot
+- 🌱 I’m currently learning  spring boot - java backend framework
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @linkedIn- eric kingoo
 
